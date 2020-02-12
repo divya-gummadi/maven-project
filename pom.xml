@@ -16,7 +16,7 @@
 		<activemq-kahadb-store.version>5.15.4</activemq-kahadb-store.version>
 		<mysql.version>8.0.18</mysql.version>
 		<mule.version>3.9.2</mule.version>
-		<mule.tools.version>1.7</mule.tools.version>
+		<mule.tools.version>3.2.7</mule.tools.version>
 	</properties>
 
 	<build>
@@ -24,8 +24,8 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-				<version>2.3.2</version>
-				
+				<version>3.2.7</version>
+				<extensions>true</extensions>
 				<configuration>
 					<copyToAppsDirectory>true</copyToAppsDirectory>
 				</configuration>
