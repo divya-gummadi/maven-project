@@ -14,7 +14,7 @@
 		<activemq-client.version>5.7.0</activemq-client.version>
 		<activemq-broker.version>5.15.11</activemq-broker.version>
 		<activemq-kahadb-store.version>5.15.4</activemq-kahadb-store.version>
-		<mysql.version>8.0.18</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<mule.version>3.9.2</mule.version>
 		<mule.tools.version>3.2.7</mule.tools.version>
 	</properties>
